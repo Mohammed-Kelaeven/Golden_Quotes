@@ -1,0 +1,46 @@
+body {
+  background-color: #331d2c;
+  margin: 0px auto;
+}
+
+h1 {
+  background-color: #a78295;
+  text-align: center;
+  padding: 10px;
+  width: 350px;
+  margin: 20px auto;
+  font-family: "Italianno", sans-serif;
+  font-size: 34px;
+  border-radius: 5px;
+}
+
+img {
+  width: 240px;
+  height: auto;
+  border-radius: 10px;
+}
+
+ul {
+  display: flex;
+  margin: 0px;
+  padding: 0px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+li {
+  list-style: none;
+  margin: 5px;
+  text-align: center;
+}
+a {
+  color: #a78295;
+  text-decoration: none;
+  text-align: center;
+}
+p {
+  margin: 0px;
+  width: 280px;
+  color: #efe1d1;
+  font-family: "Montserrat";
+}
